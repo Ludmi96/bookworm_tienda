@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Victim",
+    "isbn": "827660115-4",
+    "gender": "Horror|Thriller",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 81,
+    "price": 7076,
+    "category": "e-book"
+  },
+  {
+    "id": 2,
+    "name": "Beautiful Country, The",
+    "isbn": "891080948-5",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 95,
+    "price": 6718,
+    "category": "e-book"
+  },
+  {
+    "id": 3,
+    "name": "Manborg",
+    "isbn": "670163125-8",
+    "gender": "Action|Adventure|Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 82,
+    "price": 8817,
+    "category": "e-book"
+  },
+  {
+    "id": 4,
+    "name": "Miral",
+    "isbn": "814785956-2",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 33,
+    "price": 9498,
+    "category": "e-book"
+  },
+  {
+    "id": 5,
+    "name": "They Won't Forget",
+    "isbn": "481672324-2",
+    "gender": "Drama|Mystery",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 41,
+    "price": 7432,
+    "category": "fisico"
+  },
+  {
+    "id": 6,
+    "name": "Family, The",
+    "isbn": "369416341-7",
+    "gender": "Action|Comedy|Crime",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 12,
+    "price": 6378,
+    "category": "fisico"
+  },
+  {
+    "id": 7,
+    "name": "Tailor of Panama, The",
+    "isbn": "971227297-4",
+    "gender": "Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 73,
+    "price": 6803,
+    "category": "e-book"
+  },
+  {
+    "id": 8,
+    "name": "Dragon Day",
+    "isbn": "699424787-2",
+    "gender": "Drama|Sci-Fi|Thriller",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 87,
+    "price": 3571,
+    "category": "e-book"
+  },
+  {
+    "id": 9,
+    "name": "Best Men",
+    "isbn": "160792329-7",
+    "gender": "Action|Comedy|Crime|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 67,
+    "price": 5029,
+    "category": "fisico"
+  },
+  {
+    "id": 10,
+    "name": "Episode 3: Enjoy Poverty",
+    "isbn": "590559292-6",
+    "gender": "Documentary|War",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 63,
+    "price": 3880,
+    "category": "e-book"
+  },
+  {
+    "id": 11,
+    "name": "Morgan!",
+    "isbn": "505360072-4",
+    "gender": "Comedy|Drama|Fantasy",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 87,
+    "price": 9953,
+    "category": "e-book"
+  },
+  {
+    "id": 12,
+    "name": "Song of Ceylon, The",
+    "isbn": "198667431-2",
+    "gender": "Documentary",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 6,
+    "price": 4066,
+    "category": "fisico"
+  },
+  {
+    "id": 13,
+    "name": "Single Girl, A (Fille seule, La)",
+    "isbn": "474951926-X",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 54,
+    "price": 6272,
+    "category": "e-book"
+  },
+  {
+    "id": 14,
+    "name": "Punk in London",
+    "isbn": "751197925-4",
+    "gender": "Documentary|Musical",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 6,
+    "price": 5534,
+    "category": "fisico"
+  },
+  {
+    "id": 15,
+    "name": "Little Traitor, The",
+    "isbn": "595038946-8",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 14,
+    "price": 6265,
+    "category": "e-book"
+  },
+  {
+    "id": 16,
+    "name": "Raajneeti",
+    "isbn": "269855191-7",
+    "gender": "Crime|Drama|Romance",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 9,
+    "price": 4031,
+    "category": "e-book"
+  },
+  {
+    "id": 17,
+    "name": "Deadfall",
+    "isbn": "590975096-8",
+    "gender": "Comedy|Crime|Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 3,
+    "price": 7820,
+    "category": "e-book"
+  },
+  {
+    "id": 18,
+    "name": "Good Guys Wear Black",
+    "isbn": "419573043-0",
+    "gender": "Action",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 89,
+    "price": 5902,
+    "category": "fisico"
+  },
+  {
+    "id": 19,
+    "name": "3 dev adam (Three Giant Men) ",
+    "isbn": "933078375-9",
+    "gender": "Action|Adventure|Sci-Fi",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 8,
+    "price": 7173,
+    "category": "fisico"
+  },
+  {
+    "id": 20,
+    "name": "Date and Switch",
+    "isbn": "051097425-2",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 39,
+    "price": 5003,
+    "category": "fisico"
+  },
+  {
+    "id": 21,
+    "name": "Goodnight, Mister Tom",
+    "isbn": "996091950-1",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 78,
+    "price": 5908,
+    "category": "e-book"
+  },
+  {
+    "id": 22,
+    "name": "Bellissima",
+    "isbn": "875270280-4",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 89,
+    "price": 8132,
+    "category": "e-book"
+  },
+  {
+    "id": 23,
+    "name": "The Monkey King",
+    "isbn": "437678126-6",
+    "gender": "Action|Adventure|Children|IMAX",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 7,
+    "price": 8336,
+    "category": "fisico"
+  },
+  {
+    "id": 24,
+    "name": "I'll Cry Tomorrow",
+    "isbn": "546867421-1",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 48,
+    "price": 4387,
+    "category": "e-book"
+  },
+  {
+    "id": 25,
+    "name": "Zatoichi Meets Yojimbo (Zatôichi to Yôjinbô) (Zatôichi 20)",
+    "isbn": "378834969-7",
+    "gender": "Action|Adventure|Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 28,
+    "price": 3359,
+    "category": "fisico"
+  },
+  {
+    "id": 26,
+    "name": "Coherence",
+    "isbn": "534207038-4",
+    "gender": "Drama|Mystery|Sci-Fi|Thriller",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 84,
+    "price": 4540,
+    "category": "fisico"
+  },
+  {
+    "id": 27,
+    "name": "Night Catches Us",
+    "isbn": "177480803-X",
+    "gender": "Drama|Romance",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 94,
+    "price": 9236,
+    "category": "fisico"
+  },
+  {
+    "id": 28,
+    "name": "Captain January",
+    "isbn": "818868243-8",
+    "gender": "Children|Comedy|Musical",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 82,
+    "price": 3350,
+    "category": "e-book"
+  },
+  {
+    "id": 29,
+    "name": "Made for Each Other",
+    "isbn": "344622023-2",
+    "gender": "Comedy|Drama|Romance",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 99,
+    "price": 9666,
+    "category": "fisico"
+  },
+  {
+    "id": 30,
+    "name": "Chapiteau-show (Shapito-shou)",
+    "isbn": "237614090-0",
+    "gender": "Adventure|Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 100,
+    "price": 6922,
+    "category": "e-book"
+  },
+  {
+    "id": 31,
+    "name": "Four Brothers",
+    "isbn": "924497445-2",
+    "gender": "Action|Crime|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 18,
+    "price": 9107,
+    "category": "fisico"
+  },
+  {
+    "id": 32,
+    "name": "Bridesmaid, The (Demoiselle d'honneur, La)",
+    "isbn": "104401448-2",
+    "gender": "Drama|Romance|Thriller",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 10,
+    "price": 3184,
+    "category": "fisico"
+  },
+  {
+    "id": 33,
+    "name": "Robin Williams: Weapons of Self Destruction",
+    "isbn": "994323703-1",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 55,
+    "price": 7124,
+    "category": "fisico"
+  },
+  {
+    "id": 34,
+    "name": "Black Hole, The",
+    "isbn": "084713243-9",
+    "gender": "Children|Sci-Fi",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 64,
+    "price": 3481,
+    "category": "e-book"
+  },
+  {
+    "id": 35,
+    "name": "American Addict",
+    "isbn": "577842225-3",
+    "gender": "Documentary",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 45,
+    "price": 9188,
+    "category": "e-book"
+  },
+  {
+    "id": 36,
+    "name": "Unfinished Business",
+    "isbn": "332370525-4",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 34,
+    "price": 5554,
+    "category": "e-book"
+  },
+  {
+    "id": 37,
+    "name": "Boys Diving, Honolulu",
+    "isbn": "146750090-9",
+    "gender": "Documentary",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 14,
+    "price": 6515,
+    "category": "e-book"
+  },
+  {
+    "id": 38,
+    "name": "Golden Gate",
+    "isbn": "987255157-X",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 13,
+    "price": 7474,
+    "category": "fisico"
+  },
+  {
+    "id": 39,
+    "name": "National Treasure",
+    "isbn": "260056685-6",
+    "gender": "Action|Adventure|Drama|Mystery|Thriller",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 90,
+    "price": 6454,
+    "category": "fisico"
+  },
+  {
+    "id": 40,
+    "name": "Better Tomorrow II, A (Ying hung boon sik II)",
+    "isbn": "512984244-8",
+    "gender": "Crime|Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 57,
+    "price": 3932,
+    "category": "fisico"
+  },
+  {
+    "id": 41,
+    "name": "Kiss Me Goodbye",
+    "isbn": "285251669-1",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 5,
+    "price": 7518,
+    "category": "fisico"
+  },
+  {
+    "id": 42,
+    "name": "Grand Prix",
+    "isbn": "483442613-0",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 17,
+    "price": 6225,
+    "category": "e-book"
+  },
+  {
+    "id": 43,
+    "name": "Animatrix, The",
+    "isbn": "285309590-8",
+    "gender": "Action|Animation|Drama|Sci-Fi",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 23,
+    "price": 8785,
+    "category": "fisico"
+  },
+  {
+    "id": 44,
+    "name": "Ascension",
+    "isbn": "240039298-6",
+    "gender": "Drama|Sci-Fi",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 28,
+    "price": 4908,
+    "category": "fisico"
+  },
+  {
+    "id": 45,
+    "name": "Portrait Werner Herzog",
+    "isbn": "169575001-2",
+    "gender": "Documentary",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 78,
+    "price": 5008,
+    "category": "fisico"
+  },
+  {
+    "id": 46,
+    "name": "Swing Kids",
+    "isbn": "253783574-3",
+    "gender": "Drama|War",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 35,
+    "price": 6219,
+    "category": "e-book"
+  },
+  {
+    "id": 47,
+    "name": "I've Loved You So Long (Il y a longtemps que je t'aime)",
+    "isbn": "114707638-3",
+    "gender": "Drama|Mystery",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 22,
+    "price": 6550,
+    "category": "e-book"
+  },
+  {
+    "id": 48,
+    "name": "Christmas Toy, The",
+    "isbn": "490148593-8",
+    "gender": "Children|Musical",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 2,
+    "price": 8135,
+    "category": "fisico"
+  },
+  {
+    "id": 49,
+    "name": "Hot Dog... The Movie",
+    "isbn": "136847467-5",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 22,
+    "price": 6403,
+    "category": "e-book"
+  },
+  {
+    "id": 50,
+    "name": "Welcome to Woop-Woop",
+    "isbn": "729050859-9",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 49,
+    "price": 5547,
+    "category": "fisico"
+  },
+  {
+    "id": 51,
+    "name": "West Beirut (West Beyrouth)",
+    "isbn": "951169055-8",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 42,
+    "price": 9060,
+    "category": "e-book"
+  },
+  {
+    "id": 52,
+    "name": "Enon opetukset",
+    "isbn": "360740494-1",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 66,
+    "price": 8919,
+    "category": "fisico"
+  },
+  {
+    "id": 53,
+    "name": "Bloody Child, The",
+    "isbn": "836820455-0",
+    "gender": "Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 27,
+    "price": 5859,
+    "category": "fisico"
+  },
+  {
+    "id": 54,
+    "name": "Manchurian Candidate, The",
+    "isbn": "862266972-6",
+    "gender": "Thriller",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 5,
+    "price": 5813,
+    "category": "fisico"
+  },
+  {
+    "id": 55,
+    "name": "Battling Butler",
+    "isbn": "316667774-7",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 64,
+    "price": 9047,
+    "category": "fisico"
+  },
+  {
+    "id": 56,
+    "name": "Son of Monte Cristo, The",
+    "isbn": "713946887-7",
+    "gender": "Action|Adventure",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 69,
+    "price": 3433,
+    "category": "fisico"
+  },
+  {
+    "id": 57,
+    "name": "Sherlock Holmes: Dressed to Kill",
+    "isbn": "047283339-1",
+    "gender": "Crime|Mystery",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 54,
+    "price": 9382,
+    "category": "fisico"
+  },
+  {
+    "id": 58,
+    "name": "Swamp, The (Ciénaga, La)",
+    "isbn": "831101727-1",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 94,
+    "price": 3951,
+    "category": "fisico"
+  },
+  {
+    "id": 59,
+    "name": "Firewall",
+    "isbn": "453629212-8",
+    "gender": "Crime|Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 73,
+    "price": 3377,
+    "category": "fisico"
+  },
+  {
+    "id": 60,
+    "name": "The Wind in the Willows",
+    "isbn": "573344657-9",
+    "gender": "Adventure|Animation|Children|Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 49,
+    "price": 7697,
+    "category": "e-book"
+  },
+  {
+    "id": 61,
+    "name": "Godless Girl, The",
+    "isbn": "546765091-2",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 62,
+    "price": 5631,
+    "category": "e-book"
+  },
+  {
+    "id": 62,
+    "name": "Confucian Confusion, A (Du li shi dai)",
+    "isbn": "391423265-X",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 99,
+    "price": 5538,
+    "category": "fisico"
+  },
+  {
+    "id": 63,
+    "name": "Bottom of the Sea, The (El fondo del mar)",
+    "isbn": "074925596-X",
+    "gender": "Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 10,
+    "price": 7274,
+    "category": "e-book"
+  },
+  {
+    "id": 64,
+    "name": "Happy Endings",
+    "isbn": "134108526-0",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 82,
+    "price": 5998,
+    "category": "e-book"
+  },
+  {
+    "id": 65,
+    "name": "The Blue Room",
+    "isbn": "195806794-6",
+    "gender": "Crime",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 89,
+    "price": 7176,
+    "category": "fisico"
+  },
+  {
+    "id": 66,
+    "name": "Nutcracker, The",
+    "isbn": "708891693-2",
+    "gender": "Children|Fantasy|Musical",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 39,
+    "price": 6994,
+    "category": "e-book"
+  },
+  {
+    "id": 67,
+    "name": "Swordfish",
+    "isbn": "176064740-3",
+    "gender": "Action|Crime|Drama",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 41,
+    "price": 6846,
+    "category": "fisico"
+  },
+  {
+    "id": 68,
+    "name": "Three Brave Men",
+    "isbn": "886957323-0",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 50,
+    "price": 9286,
+    "category": "e-book"
+  },
+  {
+    "id": 69,
+    "name": "Big Lebowski, The",
+    "isbn": "380580254-4",
+    "gender": "Comedy|Crime",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 59,
+    "price": 6428,
+    "category": "e-book"
+  },
+  {
+    "id": 70,
+    "name": "Between the Sheets (Entre Lençóis)",
+    "isbn": "217022479-3",
+    "gender": "Drama|Romance",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 21,
+    "price": 5913,
+    "category": "fisico"
+  },
+  {
+    "id": 71,
+    "name": "Big Shots",
+    "isbn": "720942251-X",
+    "gender": "Adventure|Children|Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 46,
+    "price": 7411,
+    "category": "fisico"
+  },
+  {
+    "id": 72,
+    "name": "Beer",
+    "isbn": "028608803-7",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 70,
+    "price": 3798,
+    "category": "e-book"
+  },
+  {
+    "id": 73,
+    "name": "Ballplayer: Pelotero",
+    "isbn": "698583378-0",
+    "gender": "Documentary|Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 53,
+    "price": 7134,
+    "category": "e-book"
+  },
+  {
+    "id": 74,
+    "name": "Forest (Rengeteg)",
+    "isbn": "401045946-8",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 27,
+    "price": 9455,
+    "category": "e-book"
+  },
+  {
+    "id": 75,
+    "name": "Begotten",
+    "isbn": "086491956-5",
+    "gender": "Drama|Horror",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 12,
+    "price": 9220,
+    "category": "e-book"
+  },
+  {
+    "id": 76,
+    "name": "Frozen City (Valkoinen kaupunki) ",
+    "isbn": "907154731-0",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 89,
+    "price": 9617,
+    "category": "fisico"
+  },
+  {
+    "id": 77,
+    "name": "Bring It On",
+    "isbn": "782659005-1",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 36,
+    "price": 9648,
+    "category": "fisico"
+  },
+  {
+    "id": 78,
+    "name": "Trou, Le (Hole, The) (Night Watch, The)",
+    "isbn": "891886238-5",
+    "gender": "Crime|Film-Noir",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 17,
+    "price": 4773,
+    "category": "e-book"
+  },
+  {
+    "id": 79,
+    "name": "Easy Street",
+    "isbn": "573289340-7",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 10,
+    "price": 7181,
+    "category": "e-book"
+  },
+  {
+    "id": 80,
+    "name": "Miss Sadie Thompson",
+    "isbn": "704139392-5",
+    "gender": "Drama|Musical|Romance",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 11,
+    "price": 4401,
+    "category": "e-book"
+  },
+  {
+    "id": 81,
+    "name": "Nils Karlsson Pyssling",
+    "isbn": "841406024-2",
+    "gender": "Children",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 10,
+    "price": 8339,
+    "category": "fisico"
+  },
+  {
+    "id": 82,
+    "name": "Dreamworld",
+    "isbn": "982828252-6",
+    "gender": "Comedy|Drama|Romance",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 50,
+    "price": 6951,
+    "category": "e-book"
+  },
+  {
+    "id": 83,
+    "name": "Django, Kill... If You Live, Shoot! (Se sei vivo spara)",
+    "isbn": "245277991-1",
+    "gender": "Horror|Western",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 52,
+    "price": 8976,
+    "category": "e-book"
+  },
+  {
+    "id": 84,
+    "name": "Still Crazy",
+    "isbn": "414623583-9",
+    "gender": "Comedy|Romance",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 20,
+    "price": 3414,
+    "category": "fisico"
+  },
+  {
+    "id": 85,
+    "name": "Shaolin Soccer (Siu lam juk kau)",
+    "isbn": "400617358-X",
+    "gender": "Action|Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 77,
+    "price": 6821,
+    "category": "e-book"
+  },
+  {
+    "id": 86,
+    "name": "Unmade Beds",
+    "isbn": "210144077-6",
+    "gender": "Documentary",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 7,
+    "price": 9791,
+    "category": "e-book"
+  },
+  {
+    "id": 87,
+    "name": "Aziz Ansari: Buried Alive",
+    "isbn": "317544569-1",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 91,
+    "price": 9539,
+    "category": "e-book"
+  },
+  {
+    "id": 88,
+    "name": "Drunk Stoned Brilliant Dead: The Story of the National Lampoon",
+    "isbn": "557348174-6",
+    "gender": "Comedy|Documentary",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 2,
+    "price": 8493,
+    "category": "e-book"
+  },
+  {
+    "id": 89,
+    "name": "Prince & Me, The",
+    "isbn": "800461336-5",
+    "gender": "Comedy|Romance",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 40,
+    "price": 7612,
+    "category": "e-book"
+  },
+  {
+    "id": 90,
+    "name": "Superclásico",
+    "isbn": "540063949-6",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 94,
+    "price": 5039,
+    "category": "fisico"
+  },
+  {
+    "id": 91,
+    "name": "Blood Beast Terror, The",
+    "isbn": "490731077-3",
+    "gender": "Crime|Horror|Mystery",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 15,
+    "price": 8581,
+    "category": "e-book"
+  },
+  {
+    "id": 92,
+    "name": "Assassination (Ansatsu) (Assassination, The) (Assassin, The)",
+    "isbn": "890392303-0",
+    "gender": "Action|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 23,
+    "price": 4145,
+    "category": "e-book"
+  },
+  {
+    "id": 93,
+    "name": "Tin Men",
+    "isbn": "527276688-1",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 40,
+    "price": 8736,
+    "category": "fisico"
+  },
+  {
+    "id": 94,
+    "name": "Dynamite",
+    "isbn": "957289728-4",
+    "gender": "Drama",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 53,
+    "price": 8535,
+    "category": "fisico"
+  },
+  {
+    "id": 95,
+    "name": "Bad News Bears in Breaking Training, The",
+    "isbn": "773109697-1",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/dddddd/000000",
+    "stock": 71,
+    "price": 3478,
+    "category": "fisico"
+  },
+  {
+    "id": 96,
+    "name": "Diary of a Chambermaid (Journal d'une femme de chambre, Le)",
+    "isbn": "190623757-3",
+    "gender": "Comedy|Drama",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 100,
+    "price": 9226,
+    "category": "fisico"
+  },
+  {
+    "id": 97,
+    "name": "Grand Dukes, The (Les grands ducs)",
+    "isbn": "346177476-6",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 50,
+    "price": 6599,
+    "category": "fisico"
+  },
+  {
+    "id": 98,
+    "name": "Volunteers",
+    "isbn": "308721793-X",
+    "gender": "Comedy",
+    "img": "http://dummyimage.com/150x200.png/cc0000/ffffff",
+    "stock": 61,
+    "price": 4853,
+    "category": "fisico"
+  },
+  {
+    "id": 99,
+    "name": "Little Vampire, The",
+    "isbn": "800732089-X",
+    "gender": "Adventure|Children",
+    "img": "http://dummyimage.com/150x200.png/5fa2dd/ffffff",
+    "stock": 41,
+    "price": 7117,
+    "category": "fisico"
+  },
+  {
+    "id": 100,
+    "name": "Organization, The",
+    "isbn": "967901394-4",
+    "gender": "Crime|Drama|Thriller",
+    "img": "http://dummyimage.com/150x200.png/ff4444/ffffff",
+    "stock": 57,
+    "price": 8291,
+    "category": "e-book"
+  }
+]
