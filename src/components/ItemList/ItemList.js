@@ -1,4 +1,4 @@
-import ItemDetail from "../ItemDetail/ItemDetail"
+import ItemDetail from "../Item/Item"
 
 const ItemList = ( {items} ) => {
 
